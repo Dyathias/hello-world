@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Hi
+hello, just another student learning here.
